@@ -1,0 +1,13 @@
+{
+  "host":               "0.0.0.0",
+  "port":               8765,
+  "api_port":           8766,
+  "storage_path":       "/data/data/com.termux/files/home/usm_data",
+  "max_frames_per_day": 10000,
+  "retention_days":     7,
+  "heartbeat_timeout":  30.0,
+  "pair_timeout":       2.0,
+  "log_level":          "INFO",
+  "verbose":            false,
+  "enable_api":         true
+}
